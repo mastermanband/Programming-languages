@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vbich\\source\\repos\\mastermanband\\Practice-2\\WorkShop1\\1.2\\FileWatchingDemo\\FileWatchingDemo\\FileWatchingDemo.csproj": {}
+    "C:\\Users\\vbich\\source\\repos\\mastermanband\\Programming-languages\\Practice2\\WorkShop1\\1.2\\FileWatchingDemo\\FileWatchingDemo\\FileWatchingDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vbich\\source\\repos\\mastermanband\\Practice-2\\WorkShop1\\1.2\\FileWatchingDemo\\FileWatchingDemo\\FileWatchingDemo.csproj": {
+    "C:\\Users\\vbich\\source\\repos\\mastermanband\\Programming-languages\\Practice2\\WorkShop1\\1.2\\FileWatchingDemo\\FileWatchingDemo\\FileWatchingDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vbich\\source\\repos\\mastermanband\\Practice-2\\WorkShop1\\1.2\\FileWatchingDemo\\FileWatchingDemo\\FileWatchingDemo.csproj",
+        "projectUniqueName": "C:\\Users\\vbich\\source\\repos\\mastermanband\\Programming-languages\\Practice2\\WorkShop1\\1.2\\FileWatchingDemo\\FileWatchingDemo\\FileWatchingDemo.csproj",
         "projectName": "FileWatchingDemo",
-        "projectPath": "C:\\Users\\vbich\\source\\repos\\mastermanband\\Practice-2\\WorkShop1\\1.2\\FileWatchingDemo\\FileWatchingDemo\\FileWatchingDemo.csproj",
+        "projectPath": "C:\\Users\\vbich\\source\\repos\\mastermanband\\Programming-languages\\Practice2\\WorkShop1\\1.2\\FileWatchingDemo\\FileWatchingDemo\\FileWatchingDemo.csproj",
         "packagesPath": "C:\\Users\\vbich\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vbich\\source\\repos\\mastermanband\\Practice-2\\WorkShop1\\1.2\\FileWatchingDemo\\FileWatchingDemo\\obj\\",
+        "outputPath": "C:\\Users\\vbich\\source\\repos\\mastermanband\\Programming-languages\\Practice2\\WorkShop1\\1.2\\FileWatchingDemo\\FileWatchingDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
