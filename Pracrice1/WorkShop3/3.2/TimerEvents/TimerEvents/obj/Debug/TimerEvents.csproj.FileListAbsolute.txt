@@ -1,0 +1,10 @@
+C:\Users\vbich\source\repos\mastermanband\laba3\3.2\TimerEvents\TimerEvents\bin\Debug\TimerEvents.exe.config
+C:\Users\vbich\source\repos\mastermanband\laba3\3.2\TimerEvents\TimerEvents\bin\Debug\TimerEvents.exe
+C:\Users\vbich\source\repos\mastermanband\laba3\3.2\TimerEvents\TimerEvents\bin\Debug\TimerEvents.pdb
+C:\Users\vbich\source\repos\mastermanband\laba3\3.2\TimerEvents\TimerEvents\obj\Debug\TimerEvents.csprojAssemblyReference.cache
+C:\Users\vbich\source\repos\mastermanband\laba3\3.2\TimerEvents\TimerEvents\obj\Debug\TimerEvents.Timer.resources
+C:\Users\vbich\source\repos\mastermanband\laba3\3.2\TimerEvents\TimerEvents\obj\Debug\TimerEvents.Properties.Resources.resources
+C:\Users\vbich\source\repos\mastermanband\laba3\3.2\TimerEvents\TimerEvents\obj\Debug\TimerEvents.csproj.GenerateResource.cache
+C:\Users\vbich\source\repos\mastermanband\laba3\3.2\TimerEvents\TimerEvents\obj\Debug\TimerEvents.csproj.CoreCompileInputs.cache
+C:\Users\vbich\source\repos\mastermanband\laba3\3.2\TimerEvents\TimerEvents\obj\Debug\TimerEvents.exe
+C:\Users\vbich\source\repos\mastermanband\laba3\3.2\TimerEvents\TimerEvents\obj\Debug\TimerEvents.pdb
