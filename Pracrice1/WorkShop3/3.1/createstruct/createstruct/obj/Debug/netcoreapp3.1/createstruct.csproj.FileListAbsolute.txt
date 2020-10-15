@@ -1,0 +1,13 @@
+C:\Users\vbich\source\repos\mastermanband\laba3\3.1\createstruct\createstruct\bin\Debug\netcoreapp3.1\createstruct.exe
+C:\Users\vbich\source\repos\mastermanband\laba3\3.1\createstruct\createstruct\bin\Debug\netcoreapp3.1\createstruct.deps.json
+C:\Users\vbich\source\repos\mastermanband\laba3\3.1\createstruct\createstruct\bin\Debug\netcoreapp3.1\createstruct.runtimeconfig.json
+C:\Users\vbich\source\repos\mastermanband\laba3\3.1\createstruct\createstruct\bin\Debug\netcoreapp3.1\createstruct.runtimeconfig.dev.json
+C:\Users\vbich\source\repos\mastermanband\laba3\3.1\createstruct\createstruct\bin\Debug\netcoreapp3.1\createstruct.dll
+C:\Users\vbich\source\repos\mastermanband\laba3\3.1\createstruct\createstruct\bin\Debug\netcoreapp3.1\createstruct.pdb
+C:\Users\vbich\source\repos\mastermanband\laba3\3.1\createstruct\createstruct\obj\Debug\netcoreapp3.1\createstruct.csprojAssemblyReference.cache
+C:\Users\vbich\source\repos\mastermanband\laba3\3.1\createstruct\createstruct\obj\Debug\netcoreapp3.1\createstruct.AssemblyInfoInputs.cache
+C:\Users\vbich\source\repos\mastermanband\laba3\3.1\createstruct\createstruct\obj\Debug\netcoreapp3.1\createstruct.AssemblyInfo.cs
+C:\Users\vbich\source\repos\mastermanband\laba3\3.1\createstruct\createstruct\obj\Debug\netcoreapp3.1\createstruct.csproj.CoreCompileInputs.cache
+C:\Users\vbich\source\repos\mastermanband\laba3\3.1\createstruct\createstruct\obj\Debug\netcoreapp3.1\createstruct.dll
+C:\Users\vbich\source\repos\mastermanband\laba3\3.1\createstruct\createstruct\obj\Debug\netcoreapp3.1\createstruct.pdb
+C:\Users\vbich\source\repos\mastermanband\laba3\3.1\createstruct\createstruct\obj\Debug\netcoreapp3.1\createstruct.genruntimeconfig.cache
