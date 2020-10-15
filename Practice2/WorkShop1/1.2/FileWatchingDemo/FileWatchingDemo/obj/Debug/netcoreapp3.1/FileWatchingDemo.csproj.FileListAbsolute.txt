@@ -1,0 +1,12 @@
+C:\Users\vbich\source\repos\mastermanband\Practice-2\WorkShop1\1.2\FileWatchingDemo\FileWatchingDemo\bin\Debug\netcoreapp3.1\FileWatchingDemo.exe
+C:\Users\vbich\source\repos\mastermanband\Practice-2\WorkShop1\1.2\FileWatchingDemo\FileWatchingDemo\bin\Debug\netcoreapp3.1\FileWatchingDemo.deps.json
+C:\Users\vbich\source\repos\mastermanband\Practice-2\WorkShop1\1.2\FileWatchingDemo\FileWatchingDemo\bin\Debug\netcoreapp3.1\FileWatchingDemo.runtimeconfig.json
+C:\Users\vbich\source\repos\mastermanband\Practice-2\WorkShop1\1.2\FileWatchingDemo\FileWatchingDemo\bin\Debug\netcoreapp3.1\FileWatchingDemo.runtimeconfig.dev.json
+C:\Users\vbich\source\repos\mastermanband\Practice-2\WorkShop1\1.2\FileWatchingDemo\FileWatchingDemo\bin\Debug\netcoreapp3.1\FileWatchingDemo.dll
+C:\Users\vbich\source\repos\mastermanband\Practice-2\WorkShop1\1.2\FileWatchingDemo\FileWatchingDemo\bin\Debug\netcoreapp3.1\FileWatchingDemo.pdb
+C:\Users\vbich\source\repos\mastermanband\Practice-2\WorkShop1\1.2\FileWatchingDemo\FileWatchingDemo\obj\Debug\netcoreapp3.1\FileWatchingDemo.AssemblyInfoInputs.cache
+C:\Users\vbich\source\repos\mastermanband\Practice-2\WorkShop1\1.2\FileWatchingDemo\FileWatchingDemo\obj\Debug\netcoreapp3.1\FileWatchingDemo.AssemblyInfo.cs
+C:\Users\vbich\source\repos\mastermanband\Practice-2\WorkShop1\1.2\FileWatchingDemo\FileWatchingDemo\obj\Debug\netcoreapp3.1\FileWatchingDemo.csproj.CoreCompileInputs.cache
+C:\Users\vbich\source\repos\mastermanband\Practice-2\WorkShop1\1.2\FileWatchingDemo\FileWatchingDemo\obj\Debug\netcoreapp3.1\FileWatchingDemo.dll
+C:\Users\vbich\source\repos\mastermanband\Practice-2\WorkShop1\1.2\FileWatchingDemo\FileWatchingDemo\obj\Debug\netcoreapp3.1\FileWatchingDemo.pdb
+C:\Users\vbich\source\repos\mastermanband\Practice-2\WorkShop1\1.2\FileWatchingDemo\FileWatchingDemo\obj\Debug\netcoreapp3.1\FileWatchingDemo.genruntimeconfig.cache
