@@ -10,3 +10,15 @@ C:\Users\vbich\source\repos\mastermanband\Practice-2\WorkShop2\FileDemo\FileDemo
 C:\Users\vbich\source\repos\mastermanband\Practice-2\WorkShop2\FileDemo\FileDemo\obj\Debug\netcoreapp3.1\FileDemo.dll
 C:\Users\vbich\source\repos\mastermanband\Practice-2\WorkShop2\FileDemo\FileDemo\obj\Debug\netcoreapp3.1\FileDemo.pdb
 C:\Users\vbich\source\repos\mastermanband\Practice-2\WorkShop2\FileDemo\FileDemo\obj\Debug\netcoreapp3.1\FileDemo.genruntimeconfig.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice2\WorkShop2\FileDemo\FileDemo\bin\Debug\netcoreapp3.1\FileDemo.exe
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice2\WorkShop2\FileDemo\FileDemo\bin\Debug\netcoreapp3.1\FileDemo.deps.json
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice2\WorkShop2\FileDemo\FileDemo\bin\Debug\netcoreapp3.1\FileDemo.runtimeconfig.json
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice2\WorkShop2\FileDemo\FileDemo\bin\Debug\netcoreapp3.1\FileDemo.runtimeconfig.dev.json
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice2\WorkShop2\FileDemo\FileDemo\bin\Debug\netcoreapp3.1\FileDemo.dll
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice2\WorkShop2\FileDemo\FileDemo\bin\Debug\netcoreapp3.1\FileDemo.pdb
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice2\WorkShop2\FileDemo\FileDemo\obj\Debug\netcoreapp3.1\FileDemo.AssemblyInfoInputs.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice2\WorkShop2\FileDemo\FileDemo\obj\Debug\netcoreapp3.1\FileDemo.AssemblyInfo.cs
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice2\WorkShop2\FileDemo\FileDemo\obj\Debug\netcoreapp3.1\FileDemo.csproj.CoreCompileInputs.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice2\WorkShop2\FileDemo\FileDemo\obj\Debug\netcoreapp3.1\FileDemo.dll
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice2\WorkShop2\FileDemo\FileDemo\obj\Debug\netcoreapp3.1\FileDemo.pdb
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice2\WorkShop2\FileDemo\FileDemo\obj\Debug\netcoreapp3.1\FileDemo.genruntimeconfig.cache
