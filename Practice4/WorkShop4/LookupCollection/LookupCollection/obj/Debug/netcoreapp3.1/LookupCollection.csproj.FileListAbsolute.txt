@@ -1,0 +1,13 @@
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop4\LookupCollection\LookupCollection\bin\Debug\netcoreapp3.1\LookupCollection.exe
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop4\LookupCollection\LookupCollection\bin\Debug\netcoreapp3.1\LookupCollection.deps.json
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop4\LookupCollection\LookupCollection\bin\Debug\netcoreapp3.1\LookupCollection.runtimeconfig.json
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop4\LookupCollection\LookupCollection\bin\Debug\netcoreapp3.1\LookupCollection.runtimeconfig.dev.json
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop4\LookupCollection\LookupCollection\bin\Debug\netcoreapp3.1\LookupCollection.dll
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop4\LookupCollection\LookupCollection\bin\Debug\netcoreapp3.1\LookupCollection.pdb
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop4\LookupCollection\LookupCollection\obj\Debug\netcoreapp3.1\LookupCollection.csprojAssemblyReference.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop4\LookupCollection\LookupCollection\obj\Debug\netcoreapp3.1\LookupCollection.AssemblyInfoInputs.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop4\LookupCollection\LookupCollection\obj\Debug\netcoreapp3.1\LookupCollection.AssemblyInfo.cs
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop4\LookupCollection\LookupCollection\obj\Debug\netcoreapp3.1\LookupCollection.csproj.CoreCompileInputs.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop4\LookupCollection\LookupCollection\obj\Debug\netcoreapp3.1\LookupCollection.dll
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop4\LookupCollection\LookupCollection\obj\Debug\netcoreapp3.1\LookupCollection.pdb
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop4\LookupCollection\LookupCollection\obj\Debug\netcoreapp3.1\LookupCollection.genruntimeconfig.cache
