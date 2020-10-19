@@ -1,0 +1,13 @@
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice2\WorkShop4\IsolatedStorageDemo\IsolatedStorageDemo\bin\Debug\netcoreapp3.1\IsolatedStorageDemo.exe
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice2\WorkShop4\IsolatedStorageDemo\IsolatedStorageDemo\bin\Debug\netcoreapp3.1\IsolatedStorageDemo.deps.json
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice2\WorkShop4\IsolatedStorageDemo\IsolatedStorageDemo\bin\Debug\netcoreapp3.1\IsolatedStorageDemo.runtimeconfig.json
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice2\WorkShop4\IsolatedStorageDemo\IsolatedStorageDemo\bin\Debug\netcoreapp3.1\IsolatedStorageDemo.runtimeconfig.dev.json
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice2\WorkShop4\IsolatedStorageDemo\IsolatedStorageDemo\bin\Debug\netcoreapp3.1\IsolatedStorageDemo.dll
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice2\WorkShop4\IsolatedStorageDemo\IsolatedStorageDemo\bin\Debug\netcoreapp3.1\IsolatedStorageDemo.pdb
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice2\WorkShop4\IsolatedStorageDemo\IsolatedStorageDemo\obj\Debug\netcoreapp3.1\IsolatedStorageDemo.csprojAssemblyReference.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice2\WorkShop4\IsolatedStorageDemo\IsolatedStorageDemo\obj\Debug\netcoreapp3.1\IsolatedStorageDemo.AssemblyInfoInputs.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice2\WorkShop4\IsolatedStorageDemo\IsolatedStorageDemo\obj\Debug\netcoreapp3.1\IsolatedStorageDemo.AssemblyInfo.cs
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice2\WorkShop4\IsolatedStorageDemo\IsolatedStorageDemo\obj\Debug\netcoreapp3.1\IsolatedStorageDemo.csproj.CoreCompileInputs.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice2\WorkShop4\IsolatedStorageDemo\IsolatedStorageDemo\obj\Debug\netcoreapp3.1\IsolatedStorageDemo.dll
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice2\WorkShop4\IsolatedStorageDemo\IsolatedStorageDemo\obj\Debug\netcoreapp3.1\IsolatedStorageDemo.pdb
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice2\WorkShop4\IsolatedStorageDemo\IsolatedStorageDemo\obj\Debug\netcoreapp3.1\IsolatedStorageDemo.genruntimeconfig.cache

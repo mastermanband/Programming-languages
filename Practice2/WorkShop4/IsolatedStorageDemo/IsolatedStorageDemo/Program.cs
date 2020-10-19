@@ -17,7 +17,7 @@ namespace IsolatedStorageDemo
 
             if (files.Length == 0)
             {
-                Console.WriteLine("Ты дурак?");
+                Console.WriteLine("Давай ты не будешь больше так делать?");
             }
 
             else if (files.Length > 0)
