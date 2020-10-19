@@ -1,0 +1,12 @@
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice5\WorkShop1\Serialize_People\Serialize_People\bin\Debug\netcoreapp3.1\Serialize_People.exe
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice5\WorkShop1\Serialize_People\Serialize_People\bin\Debug\netcoreapp3.1\Serialize_People.deps.json
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice5\WorkShop1\Serialize_People\Serialize_People\bin\Debug\netcoreapp3.1\Serialize_People.runtimeconfig.json
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice5\WorkShop1\Serialize_People\Serialize_People\bin\Debug\netcoreapp3.1\Serialize_People.runtimeconfig.dev.json
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice5\WorkShop1\Serialize_People\Serialize_People\bin\Debug\netcoreapp3.1\Serialize_People.dll
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice5\WorkShop1\Serialize_People\Serialize_People\bin\Debug\netcoreapp3.1\Serialize_People.pdb
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice5\WorkShop1\Serialize_People\Serialize_People\obj\Debug\netcoreapp3.1\Serialize_People.AssemblyInfoInputs.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice5\WorkShop1\Serialize_People\Serialize_People\obj\Debug\netcoreapp3.1\Serialize_People.AssemblyInfo.cs
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice5\WorkShop1\Serialize_People\Serialize_People\obj\Debug\netcoreapp3.1\Serialize_People.csproj.CoreCompileInputs.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice5\WorkShop1\Serialize_People\Serialize_People\obj\Debug\netcoreapp3.1\Serialize_People.dll
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice5\WorkShop1\Serialize_People\Serialize_People\obj\Debug\netcoreapp3.1\Serialize_People.pdb
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice5\WorkShop1\Serialize_People\Serialize_People\obj\Debug\netcoreapp3.1\Serialize_People.genruntimeconfig.cache
