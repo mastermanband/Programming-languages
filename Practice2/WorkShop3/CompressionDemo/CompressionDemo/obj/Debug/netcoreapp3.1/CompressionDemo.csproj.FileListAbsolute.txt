@@ -1,0 +1,13 @@
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice2\WorkShop3\CompressionDemo\CompressionDemo\bin\Debug\netcoreapp3.1\CompressionDemo.exe
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice2\WorkShop3\CompressionDemo\CompressionDemo\bin\Debug\netcoreapp3.1\CompressionDemo.deps.json
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice2\WorkShop3\CompressionDemo\CompressionDemo\bin\Debug\netcoreapp3.1\CompressionDemo.runtimeconfig.json
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice2\WorkShop3\CompressionDemo\CompressionDemo\bin\Debug\netcoreapp3.1\CompressionDemo.runtimeconfig.dev.json
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice2\WorkShop3\CompressionDemo\CompressionDemo\bin\Debug\netcoreapp3.1\CompressionDemo.dll
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice2\WorkShop3\CompressionDemo\CompressionDemo\bin\Debug\netcoreapp3.1\CompressionDemo.pdb
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice2\WorkShop3\CompressionDemo\CompressionDemo\obj\Debug\netcoreapp3.1\CompressionDemo.csprojAssemblyReference.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice2\WorkShop3\CompressionDemo\CompressionDemo\obj\Debug\netcoreapp3.1\CompressionDemo.AssemblyInfoInputs.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice2\WorkShop3\CompressionDemo\CompressionDemo\obj\Debug\netcoreapp3.1\CompressionDemo.AssemblyInfo.cs
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice2\WorkShop3\CompressionDemo\CompressionDemo\obj\Debug\netcoreapp3.1\CompressionDemo.csproj.CoreCompileInputs.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice2\WorkShop3\CompressionDemo\CompressionDemo\obj\Debug\netcoreapp3.1\CompressionDemo.dll
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice2\WorkShop3\CompressionDemo\CompressionDemo\obj\Debug\netcoreapp3.1\CompressionDemo.pdb
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice2\WorkShop3\CompressionDemo\CompressionDemo\obj\Debug\netcoreapp3.1\CompressionDemo.genruntimeconfig.cache
