@@ -1,0 +1,13 @@
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice3\WorkShop1\num1\num1\bin\Debug\netcoreapp3.1\num1.exe
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice3\WorkShop1\num1\num1\bin\Debug\netcoreapp3.1\num1.deps.json
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice3\WorkShop1\num1\num1\bin\Debug\netcoreapp3.1\num1.runtimeconfig.json
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice3\WorkShop1\num1\num1\bin\Debug\netcoreapp3.1\num1.runtimeconfig.dev.json
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice3\WorkShop1\num1\num1\bin\Debug\netcoreapp3.1\num1.dll
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice3\WorkShop1\num1\num1\bin\Debug\netcoreapp3.1\num1.pdb
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice3\WorkShop1\num1\num1\obj\Debug\netcoreapp3.1\num1.csprojAssemblyReference.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice3\WorkShop1\num1\num1\obj\Debug\netcoreapp3.1\num1.AssemblyInfoInputs.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice3\WorkShop1\num1\num1\obj\Debug\netcoreapp3.1\num1.AssemblyInfo.cs
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice3\WorkShop1\num1\num1\obj\Debug\netcoreapp3.1\num1.csproj.CoreCompileInputs.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice3\WorkShop1\num1\num1\obj\Debug\netcoreapp3.1\num1.dll
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice3\WorkShop1\num1\num1\obj\Debug\netcoreapp3.1\num1.pdb
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice3\WorkShop1\num1\num1\obj\Debug\netcoreapp3.1\num1.genruntimeconfig.cache
