@@ -7,7 +7,8 @@ namespace BasicCollection
     {
         static void Main(string[] args)
         {
-            ArrayList myList = new ArrayList(); myList.Add("First");
+            ArrayList myList = new ArrayList(); 
+            myList.Add("First");
             myList.Add("Second");
             myList.Add("Third");
             myList.Add("Fourth");

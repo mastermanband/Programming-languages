@@ -1,0 +1,12 @@
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop2\SequentialCollections\SequentialCollections\bin\Debug\netcoreapp3.1\SequentialCollections.exe
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop2\SequentialCollections\SequentialCollections\bin\Debug\netcoreapp3.1\SequentialCollections.deps.json
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop2\SequentialCollections\SequentialCollections\bin\Debug\netcoreapp3.1\SequentialCollections.runtimeconfig.json
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop2\SequentialCollections\SequentialCollections\bin\Debug\netcoreapp3.1\SequentialCollections.runtimeconfig.dev.json
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop2\SequentialCollections\SequentialCollections\bin\Debug\netcoreapp3.1\SequentialCollections.dll
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop2\SequentialCollections\SequentialCollections\bin\Debug\netcoreapp3.1\SequentialCollections.pdb
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop2\SequentialCollections\SequentialCollections\obj\Debug\netcoreapp3.1\SequentialCollections.AssemblyInfoInputs.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop2\SequentialCollections\SequentialCollections\obj\Debug\netcoreapp3.1\SequentialCollections.AssemblyInfo.cs
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop2\SequentialCollections\SequentialCollections\obj\Debug\netcoreapp3.1\SequentialCollections.csproj.CoreCompileInputs.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop2\SequentialCollections\SequentialCollections\obj\Debug\netcoreapp3.1\SequentialCollections.dll
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop2\SequentialCollections\SequentialCollections\obj\Debug\netcoreapp3.1\SequentialCollections.pdb
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop2\SequentialCollections\SequentialCollections\obj\Debug\netcoreapp3.1\SequentialCollections.genruntimeconfig.cache

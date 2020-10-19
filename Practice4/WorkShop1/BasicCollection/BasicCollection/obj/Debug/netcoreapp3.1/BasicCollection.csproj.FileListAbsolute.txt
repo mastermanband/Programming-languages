@@ -1,0 +1,12 @@
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop1\BasicCollection\BasicCollection\bin\Debug\netcoreapp3.1\BasicCollection.exe
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop1\BasicCollection\BasicCollection\bin\Debug\netcoreapp3.1\BasicCollection.deps.json
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop1\BasicCollection\BasicCollection\bin\Debug\netcoreapp3.1\BasicCollection.runtimeconfig.json
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop1\BasicCollection\BasicCollection\bin\Debug\netcoreapp3.1\BasicCollection.runtimeconfig.dev.json
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop1\BasicCollection\BasicCollection\bin\Debug\netcoreapp3.1\BasicCollection.dll
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop1\BasicCollection\BasicCollection\bin\Debug\netcoreapp3.1\BasicCollection.pdb
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop1\BasicCollection\BasicCollection\obj\Debug\netcoreapp3.1\BasicCollection.AssemblyInfoInputs.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop1\BasicCollection\BasicCollection\obj\Debug\netcoreapp3.1\BasicCollection.AssemblyInfo.cs
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop1\BasicCollection\BasicCollection\obj\Debug\netcoreapp3.1\BasicCollection.csproj.CoreCompileInputs.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop1\BasicCollection\BasicCollection\obj\Debug\netcoreapp3.1\BasicCollection.dll
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop1\BasicCollection\BasicCollection\obj\Debug\netcoreapp3.1\BasicCollection.pdb
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop1\BasicCollection\BasicCollection\obj\Debug\netcoreapp3.1\BasicCollection.genruntimeconfig.cache
