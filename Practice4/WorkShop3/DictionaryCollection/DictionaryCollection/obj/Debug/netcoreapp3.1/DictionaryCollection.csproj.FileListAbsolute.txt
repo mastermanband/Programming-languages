@@ -1,0 +1,12 @@
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop3\DictionaryCollection\DictionaryCollection\bin\Debug\netcoreapp3.1\DictionaryCollection.exe
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop3\DictionaryCollection\DictionaryCollection\bin\Debug\netcoreapp3.1\DictionaryCollection.deps.json
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop3\DictionaryCollection\DictionaryCollection\bin\Debug\netcoreapp3.1\DictionaryCollection.runtimeconfig.json
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop3\DictionaryCollection\DictionaryCollection\bin\Debug\netcoreapp3.1\DictionaryCollection.runtimeconfig.dev.json
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop3\DictionaryCollection\DictionaryCollection\bin\Debug\netcoreapp3.1\DictionaryCollection.dll
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop3\DictionaryCollection\DictionaryCollection\bin\Debug\netcoreapp3.1\DictionaryCollection.pdb
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop3\DictionaryCollection\DictionaryCollection\obj\Debug\netcoreapp3.1\DictionaryCollection.AssemblyInfoInputs.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop3\DictionaryCollection\DictionaryCollection\obj\Debug\netcoreapp3.1\DictionaryCollection.AssemblyInfo.cs
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop3\DictionaryCollection\DictionaryCollection\obj\Debug\netcoreapp3.1\DictionaryCollection.csproj.CoreCompileInputs.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop3\DictionaryCollection\DictionaryCollection\obj\Debug\netcoreapp3.1\DictionaryCollection.dll
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop3\DictionaryCollection\DictionaryCollection\obj\Debug\netcoreapp3.1\DictionaryCollection.pdb
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop3\DictionaryCollection\DictionaryCollection\obj\Debug\netcoreapp3.1\DictionaryCollection.genruntimeconfig.cache
