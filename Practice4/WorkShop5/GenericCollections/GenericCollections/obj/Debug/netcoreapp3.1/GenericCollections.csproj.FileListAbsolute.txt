@@ -1,0 +1,12 @@
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop5\GenericCollections\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.exe
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop5\GenericCollections\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.deps.json
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop5\GenericCollections\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.runtimeconfig.json
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop5\GenericCollections\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.runtimeconfig.dev.json
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop5\GenericCollections\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.dll
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop5\GenericCollections\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.pdb
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop5\GenericCollections\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.AssemblyInfoInputs.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop5\GenericCollections\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.AssemblyInfo.cs
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop5\GenericCollections\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.csproj.CoreCompileInputs.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop5\GenericCollections\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.dll
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop5\GenericCollections\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.pdb
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice4\WorkShop5\GenericCollections\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.genruntimeconfig.cache
