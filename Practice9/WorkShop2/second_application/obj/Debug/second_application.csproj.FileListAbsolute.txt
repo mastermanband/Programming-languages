@@ -1,0 +1,11 @@
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice9\WorkShop2\second_application\bin\Debug\second_application.exe.config
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice9\WorkShop2\second_application\bin\Debug\second_application.exe
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice9\WorkShop2\second_application\bin\Debug\second_application.pdb
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice9\WorkShop2\second_application\obj\Debug\second_application.csprojAssemblyReference.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice9\WorkShop2\second_application\obj\Debug\second_application.Form1.resources
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice9\WorkShop2\second_application\obj\Debug\second_application.Properties.Resources.resources
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice9\WorkShop2\second_application\obj\Debug\second_application.csproj.GenerateResource.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice9\WorkShop2\second_application\obj\Debug\second_application.csproj.CoreCompileInputs.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice9\WorkShop2\second_application\obj\Debug\second_application.exe
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice9\WorkShop2\second_application\obj\Debug\second_application.pdb
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice9\WorkShop2\second_application\obj\Debug\second_application.Preview.resources
