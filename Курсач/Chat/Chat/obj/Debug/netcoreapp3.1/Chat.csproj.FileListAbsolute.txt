@@ -1,0 +1,5 @@
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Курсач\Chat\Chat\obj\Debug\netcoreapp3.1\Chat.csprojAssemblyReference.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Курсач\Chat\Chat\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Курсач\Chat\Chat\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Курсач\Chat\Chat\obj\Debug\netcoreapp3.1\Chat_MarkupCompile.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Курсач\Chat\Chat\obj\Debug\netcoreapp3.1\Chat_MarkupCompile.lref

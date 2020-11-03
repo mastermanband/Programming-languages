@@ -1,0 +1,10 @@
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice9\WorkShop1\RandWindow\bin\Debug\RandWindow.exe.config
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice9\WorkShop1\RandWindow\bin\Debug\RandWindow.exe
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice9\WorkShop1\RandWindow\bin\Debug\RandWindow.pdb
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice9\WorkShop1\RandWindow\obj\Debug\RandWindow.csprojAssemblyReference.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice9\WorkShop1\RandWindow\obj\Debug\RandWindow.Form1.resources
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice9\WorkShop1\RandWindow\obj\Debug\RandWindow.Properties.Resources.resources
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice9\WorkShop1\RandWindow\obj\Debug\RandWindow.csproj.GenerateResource.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice9\WorkShop1\RandWindow\obj\Debug\RandWindow.csproj.CoreCompileInputs.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice9\WorkShop1\RandWindow\obj\Debug\RandWindow.exe
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice9\WorkShop1\RandWindow\obj\Debug\RandWindow.pdb
