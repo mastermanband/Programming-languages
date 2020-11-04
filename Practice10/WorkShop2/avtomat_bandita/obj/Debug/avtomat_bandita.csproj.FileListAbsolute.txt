@@ -1,0 +1,10 @@
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice10\WorkShop2\avtomat_bandita\bin\Debug\avtomat_bandita.exe.config
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice10\WorkShop2\avtomat_bandita\bin\Debug\avtomat_bandita.exe
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice10\WorkShop2\avtomat_bandita\bin\Debug\avtomat_bandita.pdb
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice10\WorkShop2\avtomat_bandita\obj\Debug\avtomat_bandita.csprojAssemblyReference.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice10\WorkShop2\avtomat_bandita\obj\Debug\avtomat_bandita.Однорукий_бандит.resources
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice10\WorkShop2\avtomat_bandita\obj\Debug\avtomat_bandita.Properties.Resources.resources
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice10\WorkShop2\avtomat_bandita\obj\Debug\avtomat_bandita.csproj.GenerateResource.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice10\WorkShop2\avtomat_bandita\obj\Debug\avtomat_bandita.csproj.CoreCompileInputs.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice10\WorkShop2\avtomat_bandita\obj\Debug\avtomat_bandita.exe
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice10\WorkShop2\avtomat_bandita\obj\Debug\avtomat_bandita.pdb
