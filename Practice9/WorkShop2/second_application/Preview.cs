@@ -25,9 +25,7 @@ namespace second_application
         {
             if (ToView != null)
             {
-               
                 pictureBox1.Size = new Size(ToView.Width, ToView.Height);
-               
                 pictureBox1.Image = ToView;
             }
         }

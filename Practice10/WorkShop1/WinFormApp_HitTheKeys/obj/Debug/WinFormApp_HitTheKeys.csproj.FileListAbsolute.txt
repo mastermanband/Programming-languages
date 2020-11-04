@@ -1,0 +1,10 @@
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice10\WorkShop1\WinFormApp_HitTheKeys\bin\Debug\WinFormApp_HitTheKeys.exe.config
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice10\WorkShop1\WinFormApp_HitTheKeys\bin\Debug\WinFormApp_HitTheKeys.exe
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice10\WorkShop1\WinFormApp_HitTheKeys\bin\Debug\WinFormApp_HitTheKeys.pdb
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice10\WorkShop1\WinFormApp_HitTheKeys\obj\Debug\WinFormApp_HitTheKeys.csprojAssemblyReference.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice10\WorkShop1\WinFormApp_HitTheKeys\obj\Debug\WinFormApp_HitTheKeys.Form1.resources
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice10\WorkShop1\WinFormApp_HitTheKeys\obj\Debug\WinFormApp_HitTheKeys.Properties.Resources.resources
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice10\WorkShop1\WinFormApp_HitTheKeys\obj\Debug\WinFormApp_HitTheKeys.csproj.GenerateResource.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice10\WorkShop1\WinFormApp_HitTheKeys\obj\Debug\WinFormApp_HitTheKeys.csproj.CoreCompileInputs.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice10\WorkShop1\WinFormApp_HitTheKeys\obj\Debug\WinFormApp_HitTheKeys.exe
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice10\WorkShop1\WinFormApp_HitTheKeys\obj\Debug\WinFormApp_HitTheKeys.pdb
