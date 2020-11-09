@@ -1,0 +1,12 @@
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice8\WorkShop2\SingleInstance\bin\Debug\netcoreapp3.1\SingleInstance.exe
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice8\WorkShop2\SingleInstance\bin\Debug\netcoreapp3.1\SingleInstance.deps.json
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice8\WorkShop2\SingleInstance\bin\Debug\netcoreapp3.1\SingleInstance.runtimeconfig.json
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice8\WorkShop2\SingleInstance\bin\Debug\netcoreapp3.1\SingleInstance.runtimeconfig.dev.json
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice8\WorkShop2\SingleInstance\bin\Debug\netcoreapp3.1\SingleInstance.dll
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice8\WorkShop2\SingleInstance\bin\Debug\netcoreapp3.1\SingleInstance.pdb
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice8\WorkShop2\SingleInstance\obj\Debug\netcoreapp3.1\SingleInstance.AssemblyInfoInputs.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice8\WorkShop2\SingleInstance\obj\Debug\netcoreapp3.1\SingleInstance.AssemblyInfo.cs
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice8\WorkShop2\SingleInstance\obj\Debug\netcoreapp3.1\SingleInstance.csproj.CoreCompileInputs.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice8\WorkShop2\SingleInstance\obj\Debug\netcoreapp3.1\SingleInstance.dll
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice8\WorkShop2\SingleInstance\obj\Debug\netcoreapp3.1\SingleInstance.pdb
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice8\WorkShop2\SingleInstance\obj\Debug\netcoreapp3.1\SingleInstance.genruntimeconfig.cache
