@@ -1,0 +1,13 @@
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice8\WorkShop1\SimpleThreadingDemo\bin\Debug\netcoreapp3.1\SimpleThreadingDemo.exe
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice8\WorkShop1\SimpleThreadingDemo\bin\Debug\netcoreapp3.1\SimpleThreadingDemo.deps.json
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice8\WorkShop1\SimpleThreadingDemo\bin\Debug\netcoreapp3.1\SimpleThreadingDemo.runtimeconfig.json
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice8\WorkShop1\SimpleThreadingDemo\bin\Debug\netcoreapp3.1\SimpleThreadingDemo.runtimeconfig.dev.json
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice8\WorkShop1\SimpleThreadingDemo\bin\Debug\netcoreapp3.1\SimpleThreadingDemo.dll
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice8\WorkShop1\SimpleThreadingDemo\bin\Debug\netcoreapp3.1\SimpleThreadingDemo.pdb
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice8\WorkShop1\SimpleThreadingDemo\obj\Debug\netcoreapp3.1\SimpleThreadingDemo.csprojAssemblyReference.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice8\WorkShop1\SimpleThreadingDemo\obj\Debug\netcoreapp3.1\SimpleThreadingDemo.AssemblyInfoInputs.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice8\WorkShop1\SimpleThreadingDemo\obj\Debug\netcoreapp3.1\SimpleThreadingDemo.AssemblyInfo.cs
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice8\WorkShop1\SimpleThreadingDemo\obj\Debug\netcoreapp3.1\SimpleThreadingDemo.csproj.CoreCompileInputs.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice8\WorkShop1\SimpleThreadingDemo\obj\Debug\netcoreapp3.1\SimpleThreadingDemo.dll
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice8\WorkShop1\SimpleThreadingDemo\obj\Debug\netcoreapp3.1\SimpleThreadingDemo.pdb
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice8\WorkShop1\SimpleThreadingDemo\obj\Debug\netcoreapp3.1\SimpleThreadingDemo.genruntimeconfig.cache
