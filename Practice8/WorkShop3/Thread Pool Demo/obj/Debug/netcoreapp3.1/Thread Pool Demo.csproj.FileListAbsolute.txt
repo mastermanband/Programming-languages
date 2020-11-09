@@ -1,0 +1,12 @@
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice8\WorkShop3\Thread Pool Demo\bin\Debug\netcoreapp3.1\Thread Pool Demo.exe
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice8\WorkShop3\Thread Pool Demo\bin\Debug\netcoreapp3.1\Thread Pool Demo.deps.json
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice8\WorkShop3\Thread Pool Demo\bin\Debug\netcoreapp3.1\Thread Pool Demo.runtimeconfig.json
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice8\WorkShop3\Thread Pool Demo\bin\Debug\netcoreapp3.1\Thread Pool Demo.runtimeconfig.dev.json
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice8\WorkShop3\Thread Pool Demo\bin\Debug\netcoreapp3.1\Thread Pool Demo.dll
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice8\WorkShop3\Thread Pool Demo\bin\Debug\netcoreapp3.1\Thread Pool Demo.pdb
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice8\WorkShop3\Thread Pool Demo\obj\Debug\netcoreapp3.1\Thread Pool Demo.AssemblyInfoInputs.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice8\WorkShop3\Thread Pool Demo\obj\Debug\netcoreapp3.1\Thread Pool Demo.AssemblyInfo.cs
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice8\WorkShop3\Thread Pool Demo\obj\Debug\netcoreapp3.1\Thread Pool Demo.csproj.CoreCompileInputs.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice8\WorkShop3\Thread Pool Demo\obj\Debug\netcoreapp3.1\Thread Pool Demo.dll
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice8\WorkShop3\Thread Pool Demo\obj\Debug\netcoreapp3.1\Thread Pool Demo.pdb
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice8\WorkShop3\Thread Pool Demo\obj\Debug\netcoreapp3.1\Thread Pool Demo.genruntimeconfig.cache
