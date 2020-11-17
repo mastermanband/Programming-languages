@@ -1,0 +1,10 @@
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice11\WorkShop2\ARGB\bin\Debug\ARGB.exe.config
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice11\WorkShop2\ARGB\bin\Debug\ARGB.exe
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice11\WorkShop2\ARGB\bin\Debug\ARGB.pdb
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice11\WorkShop2\ARGB\obj\Debug\ARGB.csprojAssemblyReference.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice11\WorkShop2\ARGB\obj\Debug\ARGB.Form1.resources
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice11\WorkShop2\ARGB\obj\Debug\ARGB.Properties.Resources.resources
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice11\WorkShop2\ARGB\obj\Debug\ARGB.csproj.GenerateResource.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice11\WorkShop2\ARGB\obj\Debug\ARGB.csproj.CoreCompileInputs.cache
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice11\WorkShop2\ARGB\obj\Debug\ARGB.exe
+C:\Users\vbich\source\repos\mastermanband\Programming-languages\Practice11\WorkShop2\ARGB\obj\Debug\ARGB.pdb
